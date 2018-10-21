@@ -23,3 +23,5 @@ gradle-app.setting
 .vscode/
 .DS_Store
 /src/main/resources/application.properties.changename
+
+src/main/resources/application\.properties\.changeme
